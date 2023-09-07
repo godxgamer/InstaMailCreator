@@ -4,8 +4,8 @@ headers={
     "Content-Type": "application/json",
 }
 
-proc = str(input("Enter Your Proxy ->"))  # "username:password@host:port"  (without http:// or https:// )
-num = str(input("Enter Your Number ->"))  #919988998877
+proc = str(input("Enter Your Proxy -> "))  # "username:password@host:port"  (without http:// or https:// )
+num = str(input("Enter Your Number -> "))  #919988998877
 
 def creator():
     data={
