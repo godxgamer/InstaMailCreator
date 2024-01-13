@@ -20,8 +20,14 @@ git clone https://github.com/your-username/instagram-automation-api.git
 
 ## API Documentation
 # 1. Send OTP to Email
-Endpoint: /api/insta/android/email/send
-Method: POST
-Request Payload:
+-Endpoint: /api/insta/android/email/send
+=Method: POST
+=Request Payload:
+{
+    "email": "your-email@example.com",
+    "proxy": "username:password@host:port",
+    "country_code": "IN"
+}
+
 
 
