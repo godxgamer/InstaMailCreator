@@ -31,4 +31,22 @@ git clone https://github.com/your-username/instagram-automation-api.git
 }
 ```
 
+# 2. Verify OTP and Create Account
+- Endpoint: /api/insta/android/email/create
+- Method: POST
+- Request Payload:
+```bash
+{
+    "otp": "123456",
+    "proxy": "username:password@host:port",
+    "client_data": {}  // Response from the first API call
+}
+```
+
+# Contact
+- For bulk account creation or any queries, contact the developer on Telegram: @god_x_gamer.
+
+# Disclaimer
+- Use this script responsibly and in accordance with Instagram's terms of service. The developer is not responsible for any misuse or consequences.
+
 
