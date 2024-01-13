@@ -11,6 +11,17 @@ Before using this script, make sure you have the following:
 
 ```bash
 pip install requests
+```
 
 ## Usage
-Clone the repository:
+1- Clone the repository:
+git clone https://github.com/your-username/instagram-automation-api.git
+
+
+## API Documentation
+# 1. Send OTP to Email
+Endpoint: /api/insta/android/email/send
+Method: POST
+Request Payload:
+
+
