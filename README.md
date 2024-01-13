@@ -78,7 +78,8 @@ curl -X POST \
 ```
 
 # Contact
-- For bulk account creation or any queries, contact the developer on Telegram: @god_x_gamer.
+- For bulk account creation or any queries, contact the developer on Telegram: [@god_x_gamer](https://telegram.me/god_x_gamer).
+- Join [@gxbytes](https://telegram.me/gxbytes) for latest updates 
 
 # Disclaimer
 - Use this script responsibly and in accordance with Instagram's terms of service. The developer is not responsible for any misuse or consequences.
