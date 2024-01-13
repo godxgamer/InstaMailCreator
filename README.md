@@ -13,7 +13,7 @@ Before using this script, make sure you have the following:
 pip install requests
 ```
 
-## Usage
+# Usage
 1- Clone the repository:
 git clone https://github.com/your-username/instagram-automation-api.git
 
