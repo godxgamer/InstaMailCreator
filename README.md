@@ -15,7 +15,7 @@ pip install requests
 
 # Usage
 1- Clone the repository:
-git clone https://github.com/your-username/instagram-automation-api.git
+git clone https://github.com/godxgamer/InstaMailCreator.git
 
 
 ## API Documentation
