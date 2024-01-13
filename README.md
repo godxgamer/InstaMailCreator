@@ -35,6 +35,18 @@ headers={
     "country_code": "IN"
 }
 ```
+- cURL Example:
+```bash
+curl -X POST \
+  http://128.140.99.16:5622/api/insta/android/email/send \
+  -H 'Content-Type: application/json' \
+  -H 'X-API-Key: Your-API-Key' \
+  -d '{
+    "email": "your-email@example.com",
+    "proxy": "username:password@host:port",
+    "country_code": "IN"
+  }'
+```
 
 # 2. Verify OTP and Create Account
 - Endpoint: /api/insta/android/email/create
@@ -51,6 +63,18 @@ headers={
     "proxy": "username:password@host:port",
     "client_data": {}  // Response from the first API call
 }
+```
+- cURL Example:
+```bash
+curl -X POST \
+  http://128.140.99.16:5622/api/insta/android/email/create \
+  -H 'Content-Type: application/json' \
+  -H 'X-API-Key: Your-API-Key' \
+  -d '{
+    "otp": "123456",
+    "proxy": "username:password@host:port",
+    "client_data": {}
+  }'
 ```
 
 # Contact
