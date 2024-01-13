@@ -24,6 +24,11 @@ git clone https://github.com/your-username/instagram-automation-api.git
 - Method: POST
 - Request Payload:
 ```bash
+headers={
+    "Content-Type": "application/json",
+    "X-API-Key":"None",
+}
+
 {
     "email": "your-email@example.com",
     "proxy": "username:password@host:port",
@@ -36,6 +41,11 @@ git clone https://github.com/your-username/instagram-automation-api.git
 - Method: POST
 - Request Payload:
 ```bash
+headers={
+    "Content-Type": "application/json",
+    "X-API-Key":"None",
+}
+
 {
     "otp": "123456",
     "proxy": "username:password@host:port",
