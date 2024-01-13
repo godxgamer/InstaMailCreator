@@ -1,6 +1,6 @@
 # Instagram Account Registration Automation API
 
-## This Python script uses an API built on Instagram Android API version 312.1.0.34.11 to automate the registration of Instagram accounts. It sends an OTP to a provided email and then uses the OTP to create a new Instagram account. This can be useful for bulk account creation or automation purposes.
+- This Python script uses an API built on Instagram Android API version 312.1.0.34.11 to automate the registration of Instagram accounts. It sends an OTP to a provided email and then uses the OTP to create a new Instagram account. This can be useful for bulk account creation or automation purposes.
 
 
 ## Prerequisites
