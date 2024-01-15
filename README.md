@@ -1,7 +1,11 @@
 # Instagram Account Registration Automation API
 
 - This Python script uses an API built on Instagram Android API version 312.1.0.34.11 and is based on Block Response reverse engineering to automate the registration of Instagram accounts. It sends an OTP to a provided email and then uses the OTP to create a new Instagram account. This can be useful for bulk account creation or automation purposes.
-- ## Free Api 
+-Free Api 
+
+# Youtube Tutorial For beginner
+
+- https://youtu.be/FexzCl-3rds
 
 
 ## Prerequisites
