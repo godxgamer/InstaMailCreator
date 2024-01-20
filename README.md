@@ -27,6 +27,20 @@ pip install requests
 1- Clone the repository:
 git clone https://github.com/godxgamer/InstaMailCreator.git
 
+### Update :- 
+- You can now pass your own full_name and password.
+- Its optional if you want to pass your full name and password add to parameters in send otp payload
+- if You Dont Want to pass these . Just Remove "full_name" and "password" From payload parameters 
+```bash
+{
+    "full_name":'gamer',  # Optional 
+    "password":'gamerrrrr',# Optional 
+    "email": email,
+    "proxy": proxy_path,
+    "country_code": country_code
+}
+```
+
 
 ## API Documentation
 # 1. Send OTP to Email
