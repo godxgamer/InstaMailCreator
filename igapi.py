@@ -7,7 +7,7 @@ headers = {
 }
 
 # Base URL of the API
-base_url = 'http://127.0.0.1:5000'
+base_url = 'http://128.140.99.16:5622'
 
 # Email for Instagram registration
 email = 'cekkukofyi@gufum.com'  # Note Always Use least Flagged Domains for email like gmail,outlook,hotmailInstagram Is Very Strict With Email Account Registratin They Block or susspend Account Registered With Temp Mails
